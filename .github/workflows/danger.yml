@@ -1,4 +1,4 @@
-name: Daneger
+name: Danger
 
 on:
   pull_request:
